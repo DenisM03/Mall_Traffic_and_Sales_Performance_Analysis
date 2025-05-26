@@ -6,7 +6,8 @@
 **Project Title** : Mall Traffic & Sales Performance Analysis   
 **Domain**:  Retail Business    
 
-**Dashboard link :**   
+**Dashboard link :**       
+https://app.powerbi.com/view?r=eyJrIjoiYWI2YzEzNjItNDI5MS00Y2JjLThmNWYtNDRlMjhkMDQ0ZjE4IiwidCI6IjUxNjk4MzNiLWUxZWItNDlkNC1iODBiLWM0MTNjOTMxMWZkYSJ9 
 
 
 ## 🚀 **Executive Summary**
